@@ -5,6 +5,7 @@ export default authMiddleware({
     "/",
     "/api/webhooks/clerk",
     "/api/webhooks/stripe",
+    "/transformations/add/recolor",
     "/sign-in",
     "/sign-up",
   ],
